@@ -1,0 +1,23 @@
+
+img {
+  border-style: ridge;
+  border-color: coral;
+  border-width: 7px;
+}
+  
+body{
+	background-color:#0000FF;
+	font-family:Arial;
+}
+.red{
+	color:red;
+	
+}
+.big_front{
+	font-size:32px;
+	
+}
+#specialstyle{
+	border: 2px solid red;
+	background-color:yellow;
+}
